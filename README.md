@@ -1,6 +1,14 @@
 # Ex-3: Regression in Harry Potter Universe
+# Solution Submission screenshots
+1. Local test pass
+![Alt text](<local_pass.png>)
+2. Commit pass
+![Alt text](<commit_pass.png>)
+3. Remote test pass
+![Alt text](<remote_test_pass.png>)
 
-## Overview
+
+## Exercise Overview
 In this exercise, we will use regression to predict the value of vaults in a hypothetical scenario based on the number of gold and silver coins in each vault.
 
 ## Objectives
